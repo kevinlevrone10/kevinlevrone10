@@ -10,11 +10,6 @@
 
 <p align="left">💡 Me encanta resolver problemas complejos y optimizar sistemas para que sean más rápidos y robustos. Actualmente, trabajo con .NET, C#, SQL, MAUI, pero siempre estoy explorando nuevas tecnologías.<br><br>📚 Actualmente aprendiendo sobre arquitectura de software y optimización de rendimiento en backend.<br><br>🎯 Objetivos: Convertirme en Arquitecto de Software, seguir creando sistemas escalables y contribuir a proyectos innovadores.<br><br>🏋️‍♂️ Código y entrenamiento son mi día a día. Así como en el desarrollo busco eficiencia y precisión, en el gimnasio persigo fuerza y disciplina. Crecer profesional y personalmente es mi filosofía.</p>
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
 
 <h2 align="left">Trabajando con las tecnologias</h2>
 
