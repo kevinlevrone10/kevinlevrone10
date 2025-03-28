@@ -1,14 +1,8 @@
-<h1 align="left">Hola 👋 Que tal?</h1>
-
-
+<h1 align="left">Hello 👋 How's it going?</h1>
 
 <br clear="both">
 
-<p align="left">👋 ¡Hola! Soy Kevin Gutiérrez, un apasionado ingeniero en sistemas con enfoque en backend. Llevo 3 años escribiendo código limpio, eficiente y escalable, siempre siguiendo las mejores prácticas de ingeniería. 🚀<br><br>✨ Creando bugs desde 2021 (pero los arreglo rápido 😆)</p>
-
-###
-
-<p align="left">💡 Me encanta resolver problemas complejos y optimizar sistemas para que sean más rápidos y robustos. Actualmente, trabajo con .NET, C#, SQL, MAUI, pero siempre estoy explorando nuevas tecnologías.<br><br>📚 Actualmente aprendiendo sobre arquitectura de software y optimización de rendimiento en backend.<br><br>🎯 Objetivos: Convertirme en Arquitecto de Software, seguir creando sistemas escalables y contribuir a proyectos innovadores.<br><br>🏋️‍♂️ Código y entrenamiento son mi día a día. Así como en el desarrollo busco eficiencia y precisión, en el gimnasio persigo fuerza y disciplina. Crecer profesional y personalmente es mi filosofía.</p>
+<p align="left">👋 I'm Kevin Gutiérrez, an engineer passionate about backend development. I excel at writing clean code and following powerful engineering practices. In addition to my passion for programming, I'm a fitness enthusiast and enjoy exercising, always seeking to improve myself and achieve new goals. I firmly believe that personal and professional development go hand in hand, and I apply this philosophy to both my work and my daily life. I'm excited to continue growing in the software world and contribute to innovative projects.</p>
 
 
 <h2 align="left">Trabajando con las tecnologias</h2>
